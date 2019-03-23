@@ -1,6 +1,6 @@
 <?php
 
-namespace AkthemBundle\Tests\Controller;
+namespace BackBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 
